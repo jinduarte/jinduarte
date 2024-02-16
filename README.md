@@ -23,5 +23,5 @@ github-readme-stats-rho-one-90.vercel.app
 https://github-readme-stats-jinduartes-projects.vercel.app
 -->
 
-[![My GitHub Stats](https://github-readme-stats.vercel.app/api/?username=jinduarte&count_private=true&theme=tokyonight&showicons=true)]()
+[![My GitHub Stats](https://github-readme-stats-jinduartes-projects.vercel.app/api/?username=jinduarte&count_private=true&theme=tokyonight&showicons=true)]()
 [![My GitHub Language Stats](https://github-readme-stats-jinduartes-projects.vercel.app/api/top-langs/?username=jinduarte&layout=compact&theme=dracula&count_private=true)]()
