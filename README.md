@@ -17,7 +17,10 @@ Here are some ideas to get you started:
 
 -https://github-readme-stats.vercel.app/api/top-langs/?username=jinduarte&layout=compact&theme=dracula&count_private=true
 -https://github-readme-stats.vercel.app/api/top-langs/?username=jinduarte&langs_count=5&theme=tokyonight
+
+--FORK
+github-readme-stats-rho-one-90.vercel.app
 -->
 
 [![My GitHub Stats](https://github-readme-stats.vercel.app/api/?username=jinduarte&count_private=true&theme=tokyonight&showicons=true)]()
-[![My GitHub Language Stats](https://github-readme-stats.vercel.app/api/top-langs/?username=jinduarte&layout=compact&theme=dracula&count_private=true)]()
+[![My GitHub Language Stats](https://github-readme-stats-rho-one-90.vercel.app/api/top-langs/?username=jinduarte&layout=compact&theme=dracula&count_private=true)]()
