@@ -21,7 +21,8 @@ Here are some ideas to get you started:
 --FORK
 github-readme-stats-rho-one-90.vercel.app
 https://github-readme-stats-jinduartes-projects.vercel.app
+github-readme-stats-ashy-tau-33.vercel.app
 -->
 
 [![My GitHub Stats](https://github-readme-stats-ashy-tau-33.vercel.app/api/?username=jinduarte&count_private=true&theme=tokyonight&showicons=true)]()
-[![My GitHub Language Stats](https://github-readme-stats-ashy-tau-33.vercel.app/api/top-langs/?username=jinduarte&layout=compact&theme=dracula&count_private=true)]()
+[![My GitHub Language Stats](https://github-readme-stats-ashy-tau-33.vercel.app/api/top-langs/?username=jinduartee&layout=compact&theme=dracula&count_private=true)]()
