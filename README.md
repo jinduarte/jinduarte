@@ -33,8 +33,8 @@ https://github-readme-streak-stats.herokuapp.com
 
 -->
 
-### Hi there, I'm Jean 👋
-<h3 align="center">A passionate fullstack developer from Brazil</h3>
+### Hi there, I'm Jean 👋 </br>
+A passionate fullstack developer from Brazil
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=jinduarte" alt="jinduarte" /></a> </p>
 
