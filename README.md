@@ -1,5 +1,3 @@
-### Hi there 👋
-
 <!--
 **jinduarte/jinduarte** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
@@ -35,8 +33,7 @@ https://github-readme-streak-stats.herokuapp.com
 
 -->
 
-
-<h1 align="center">Hi 👋, I'm Jean</h1>
+### Hi there, I'm Jean 👋
 <h3 align="center">A passionate fullstack developer from Brazil</h3>
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=jinduarte" alt="jinduarte" /></a> </p>
@@ -64,5 +61,7 @@ https://github-readme-streak-stats.herokuapp.com
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=jinduarte&" alt="jinduarte" /></p>
 
-
+<!--
+generate: https://rahuldkjain.github.io/gh-profile-readme-generator/
+-->
 
