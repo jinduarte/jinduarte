@@ -32,6 +32,6 @@ https://github-readme-streak-stats.herokuapp.com
 
 
 ![jinduarte's Stats](https://github-readme-stats-jinduartes-projects.vercel.app/api?username=jinduarte&theme=vue-dark&show_icons=true&hide_border=true&count_private=true)
-![jinduarte's Streak](https://github-readme-stats-jinduartes-projects.vercel.app/?user=jinduarte&theme=vue-dark&hide_border=true&count_private=true)
+![jinduarte's Streak](https://github-readme-streak-stats.herokuapp.com/?user=jinduarte&theme=vue-dark&hide_border=true&count_private=true)
 ![jinduarte's Top Languages](https://github-readme-stats-jinduartes-projects.vercel.app/api/top-langs/?username=jinduarte&theme=vue-dark&show_icons=true&hide_border=true&layout=compact&count_private=true)
 
