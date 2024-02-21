@@ -33,7 +33,7 @@ https://github-readme-streak-stats.herokuapp.com
 
 -->
 <h3 align="left">Hi there, I'm Jean 👋</h3>
-<p align="left">A passionate fullstack developer from Brazil</p>
+<p align="left">A passionate Software Engineer from Brazil</p>
 
 
 
