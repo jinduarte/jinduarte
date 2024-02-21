@@ -90,8 +90,9 @@ https://github-readme-streak-stats.herokuapp.com
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=jinduarte&show_icons=true&locale=en" alt="jinduarte" /></p>
 -->
+<p></p>
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=jinduarte&" alt="jinduarte" /></p>
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=jinduarte&theme=dracula" alt="jinduarte" /></p>
 
 <!--
 generate: https://rahuldkjain.github.io/gh-profile-readme-generator/
