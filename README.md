@@ -33,9 +33,9 @@ https://github-readme-streak-stats.herokuapp.com
 
 -->
 <h3 align="left">Hi there, I'm Jean 👋</h3>
-<p align="center">A passionate fullstack developer from Brazil</p>
+<p align="left">A passionate fullstack developer from Brazil</p>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=jinduarte&rank=S,SS,SSS,A,AA,AAA&theme=onedark" alt="jinduarte" /></a> </p>
+
 
 <!--### Blogs posts-->
 <!-- BLOG-POST-LIST:START -->
@@ -69,6 +69,8 @@ https://github-readme-streak-stats.herokuapp.com
   <a href="https://www.linux.org/" target="_blank" rel="noreferrer"> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" alt="linux" height="40"/> </a> <img width="12" />
   <a href="https://kubernetes.io" target="_blank" rel="noreferrer"> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/kubernetes/kubernetes-plain.svg" alt="kubernetes" height="40"/> </a> <img width="12" />
 </div>
+
+<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=jinduarte&rank=S,SS,SSS,A,AA,AAA&theme=onedark" alt="jinduarte" /></a> </p>
 
 <!--
 <a href="https://www.elastic.co/kibana" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/elasticco_kibana/elasticco_kibana-icon.svg" alt="kibana" width="40" height="40"/> </a> 
