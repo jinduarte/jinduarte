@@ -36,7 +36,7 @@ https://github-readme-streak-stats.herokuapp.com
 ### Hi there, I'm Jean 👋 </br>
 A passionate fullstack developer from Brazil
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=jinduarte&rank=S,AAA&theme=onedark" alt="jinduarte" /></a> </p>
+<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=jinduarte&rank=S,A&theme=onedark" alt="jinduarte" /></a> </p>
 
 ### Blogs posts
 <!-- BLOG-POST-LIST:START -->
