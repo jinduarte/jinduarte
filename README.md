@@ -70,6 +70,9 @@ https://github-readme-streak-stats.herokuapp.com
   <a href="https://kubernetes.io" target="_blank" rel="noreferrer"> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/kubernetes/kubernetes-plain.svg" alt="kubernetes" height="40"/> </a> <img width="12" />
 </div>
 
+<p>
+</p>
+
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=jinduarte&rank=S,SS,SSS,A,AA,AAA&theme=onedark" alt="jinduarte" /></a> </p>
 
 <!--
